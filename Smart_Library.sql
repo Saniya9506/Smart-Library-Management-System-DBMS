@@ -1,3 +1,7 @@
+-- Project: Smart Library Management System
+-- Author: Saniya
+
+
 -- Tables
 CREATE TABLE Members (
     member_id INT,
